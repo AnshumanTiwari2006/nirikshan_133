@@ -1,0 +1,53 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+mplads.db
+
+# Data - Large files (use Git LFS instead)
+data/raw/
+data/processed/*.csv
+data/features/*.csv
+data/quality_reports/*.csv
+data/outputs/
+
+# Model outputs (large)
+model_outputs/
+
+# Environment
+.env
+.env.local
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup/Temp
+Backups/
+*.tmp
+*.temp
