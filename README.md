@@ -1,4 +1,4 @@
-# Nirikshan 133 --- Setup & Installation Guide
+# Team: Nirikshan_133 PS (SIH26102) Setup & Installation Guide
 
 This guide explains how to clone, install, configure, and run the
 **Nirikshan 133** project locally from a fresh machine.
